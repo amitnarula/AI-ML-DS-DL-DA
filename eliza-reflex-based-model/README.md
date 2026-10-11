@@ -1,1 +1,3 @@
-README
+# Task: Create a Simple Chatbot Using Conditional Logic
+In this task, you will create a basic chatbot that mimics the early ELIZA chatbot introduced. Write a Python program that asks the user questions and responds based on the input, simulating basic interaction. This simple chatbot demonstrates how AI can mimic human
+interaction, focusing on acting like people. The chatbot can use basic if-else logic to provide pre-programmed responses to user input.
